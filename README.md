@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JahanzaibImran
-- 👀 I’m interested in MERN/Full/Blockchain development.
-- 🌱 I’m currently learning Nest.js,GraphQl,TypeORM,Blockchain.
+- 👀 I’m interested and working in MERN/MEAN/Blockchain development.
+- 🌱 I’m currently learning Nest.js,GraphQl,Blockchain.
 - 💞️ I’m looking to collaborate on Open SourceProjects.
 - 📫 How to reach me jahanzaibimrandev@gmail.com
 
