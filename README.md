@@ -28,7 +28,7 @@ Hi, I'm **Jahanzaib Imran**, a passionate and results-driven **Software Engineer
 
 ## 🌟 Featured Projects
 
-### [Zogi Labs (Web3 Game Portal)](https://example.com)
+### [Zogi Labs (Web3 Game Portal)](https://zogilabs.io)
 - **Description:** Built and optimized the game portal for a web3 game with 50K+ users.
 - **Tech Stack:** React.js, GraphQL, Node.js, MongoDB.
 
@@ -51,7 +51,7 @@ Hi, I'm **Jahanzaib Imran**, a passionate and results-driven **Software Engineer
 
 ## 📫 Let's Connect!
 - **Email:** [jahanzaibimrandev@gmail.com](mailto:jahanzaibimrandev@gmail.com)
-- **LinkedIn:** [linkedin.com/in/jahanzaibimran5887](https://linkedin.com/in/jahanzaibimran5887)
+- **LinkedIn:** [linkedin.com/in/jahanzaibimran5887](https://www.linkedin.com/in/jahanzaib5887/)
 - **GitHub:** [github.com/JahanzaibImran](https://github.com/JahanzaibImran)
 
 ---
