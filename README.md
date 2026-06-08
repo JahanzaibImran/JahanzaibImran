@@ -19,11 +19,6 @@ Hi, I'm **Jahanzaib Imran**, a passionate and results-driven **Software Engineer
 - TypeORM, PostgreSQL, MongoDB
 - RESTful APIs, GraphQL
 
-### **Blockchain Development**
-- Web3.js, Ethers.js
-- NFT Marketplaces & Launchpads
-- Smart Contract Integration
-
 ---
 
 ## 🌟 Featured Projects
